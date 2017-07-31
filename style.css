@@ -1,0 +1,31 @@
+h1{
+    background-color: red;
+    color: color: #d62626;
+    text-align: center;
+    
+}
+#pic{
+   width: 400px;
+}
+button{
+    margin: 40px;
+    color: #d62626;
+    background-color: #510909;
+}
+#b1{
+    color: #d62626;
+    background-color: #510909;
+}
+#b2{
+    color: #d62626;
+    background-color: #510909;
+}
+#b3{
+    color: #d62626;
+    background-color: #510909;
+}
+body{
+     background-color: #510909;
+}
+    
+}
